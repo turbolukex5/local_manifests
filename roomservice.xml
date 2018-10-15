@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- Device trees -->
+  <project name="turbolukex5/android_device_samsung_hero2lte" path="device/samsung/hero2lte" remote="github" revision="lineage-16.0"/>
+  <project name="turbolukex5/android_device_samsung_herolte" path="device/samsung/herolte" remote="github" revision="lineage-16.0"/>
+  <project name="turbolukex5/android_device_samsung_hero-common" path="device/samsung/hero-common" remote="github" revision="lineage-16.0"/>
+  
+  <!-- Hardware tree -->
+  <project name="turbolukex5/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-16.0"/>
+  
+  <!-- Kernel tree -->
+  <project name="turbolukex5/android_kernel_samsung_herolte" path="kernel/samsung/universal8890" remote="github" revision="lineage-16.0"/>
+  
+  <!-- Proprietary Blobs -->
+  <project name="turbolukex5/proprietary_vendor_samsung_hero-common" path="vendor/samsung/hero-common" remote="github" revision="lineage-16.0"/>
+  <project name="turbolukex5/proprietary_vendor_hero-bsp" path="vendor/hero-bsp" remote="github" revision="lineage-16.0"/>
+  
+</manifest>
